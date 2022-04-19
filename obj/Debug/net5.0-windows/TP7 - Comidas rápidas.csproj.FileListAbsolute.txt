@@ -1,0 +1,19 @@
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\bin\Debug\net5.0-windows\TP7 - Comidas rápidas.exe
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\bin\Debug\net5.0-windows\TP7 - Comidas rápidas.deps.json
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\bin\Debug\net5.0-windows\TP7 - Comidas rápidas.runtimeconfig.json
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\bin\Debug\net5.0-windows\TP7 - Comidas rápidas.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\bin\Debug\net5.0-windows\TP7 - Comidas rápidas.dll
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\bin\Debug\net5.0-windows\ref\TP7 - Comidas rápidas.dll
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\bin\Debug\net5.0-windows\TP7 - Comidas rápidas.pdb
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\obj\Debug\net5.0-windows\TP7 - Comidas rápidas.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\obj\Debug\net5.0-windows\TP7 - Comidas rápidas.csproj.GenerateResource.cache
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\obj\Debug\net5.0-windows\TP7 - Comidas rápidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\obj\Debug\net5.0-windows\TP7 - Comidas rápidas.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\obj\Debug\net5.0-windows\TP7 - Comidas rápidas.AssemblyInfo.cs
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\obj\Debug\net5.0-windows\TP7 - Comidas rápidas.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\obj\Debug\net5.0-windows\TP7 - Comidas rápidas.dll
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\obj\Debug\net5.0-windows\ref\TP7 - Comidas rápidas.dll
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\obj\Debug\net5.0-windows\TP7 - Comidas rápidas.pdb
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\obj\Debug\net5.0-windows\TP7 - Comidas rápidas.genruntimeconfig.cache
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\obj\Debug\net5.0-windows\TP7___Comidas_rápidas.PantallaResultados.resources
+C:\Users\nicol\source\repos\TP7 - Comidas rápidas\obj\Debug\net5.0-windows\Numeros_aleatorios.Colas.RungeKuttaResultados.resources
